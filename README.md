@@ -4,9 +4,8 @@ Sometimes Y (c) 2009 Beem Media. All rights reserved.
 This is a prototype of a simple puzzle game.
 
 ## Building
-Will probably build with a version of Visual Studio around 2009. The prototype
-uses MFC which might make it harder to build on recent versions of Visual Studio
-since MFC is no longer installed with it by default.
+I have not built the current source with the VS 2022 project since it requires
+MFC to be installed. That isn't to say it won't build, but I'm not sure.
 
 ## History
 Conception: January 2009
